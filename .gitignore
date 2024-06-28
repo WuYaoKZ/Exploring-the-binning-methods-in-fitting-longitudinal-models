@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/data/nhanes_fda_with_r_ml.RDS
+/nhanes_res_data/res_list.RDS
+/nhanes_res_data/bin_res_list.RDS
+/nhanes_res_data/all_res_list.RDS
